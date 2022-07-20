@@ -1,0 +1,23 @@
+{
+    "name": "dark-theme-by-irfanul",
+    "displayName": "Dark-Theme-By-Irfanul",
+    "description": "Inspired by Sumit Saha",
+	"publisher": "imirfanul",
+	"icon": "images/logo.png",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material-Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Material-Dark-color-theme.json"
+            }
+        ]
+    }
+}
