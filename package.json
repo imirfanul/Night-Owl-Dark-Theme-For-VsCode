@@ -1,13 +1,18 @@
 {
     "name": "dark-theme-by-irfanul",
     "displayName": "Dark-Theme-By-Irfanul",
-    "description": "Inspired by Sumit Saha",
+    "description": "Inspired by Night Owl",
 	"publisher": "imirfanul",
 	"icon": "images/logo.png",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.69.0"
     },
+    "license": "SEE LICENSE IN LICENSE.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/imirfanul/Night-Owl-Dark-Theme-For-VsCode"
+	},
     "categories": [
         "Themes"
     ],
